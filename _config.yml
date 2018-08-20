@@ -1,4 +1,0 @@
-sass:
-  load_paths:
-    - assets/sass
-  style: :compressed
